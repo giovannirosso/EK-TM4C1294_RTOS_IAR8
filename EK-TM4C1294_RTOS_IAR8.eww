@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\Projects\blinky\blinky.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\TivaWare_C_Series-2.1.4.178\driverlib\driverlib.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\TivaWare_C_Series-2.1.4.178\grlib\grlib.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\lab_desafio\lab_desafio.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\prodcons\prodcons.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\CMSIS-5.6.0\CMSIS\RTOS2\RTX\Library\IAR\IDE\RTX_CM.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\sinalizador\sinalizador.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\tarefas\tarefas.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Projects\temporizador\temporizador.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

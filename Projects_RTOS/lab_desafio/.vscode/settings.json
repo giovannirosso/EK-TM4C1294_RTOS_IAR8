@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "driverbuttons.h": "c",
+        "driverleds.h": "c",
+        "stdint.h": "c"
+    }
+}
